@@ -1,5 +1,3 @@
-'use client'
-
 import { useState } from 'react'
 import { EmailForm } from './components/EmailForm'
 import { OTPForm } from './components/OTPForm'
@@ -20,4 +18,6 @@ export default function Home() {
     </div>
   )
 }
+
+
 
